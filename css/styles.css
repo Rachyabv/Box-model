@@ -1,0 +1,32 @@
+
+.top-container{
+    background-color: rgb(102, 191, 226);
+    width: 200px;
+    height: 200px;
+    font-size: 10rem;
+    text-align: center;
+    padding: 20px;
+    border:solid 10px;color: rgb(211, 103, 103);
+   
+}
+.middle-container{
+    background-color: rgb(194, 210, 25);
+    width: 200px;
+    height: 200px;
+    font-size: 10rem;
+    text-align: center;
+    padding: 20px;
+    border:solid 20px;color: blueviolet;
+    margin-left: 260px;
+   
+}
+.bottom-container{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    font-size: 10rem;
+    text-align: center;
+    padding: 20px;
+    border:solid 10px;color: black;
+     margin-left: 540px;
+}
